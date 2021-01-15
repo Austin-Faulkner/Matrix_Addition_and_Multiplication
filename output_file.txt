@@ -1,0 +1,86 @@
+
+
+******THIS PROGRAM ADDS AND MULTIPLIES MATRICES******
+
+
+Matrix M_2X2: 
+
+
+[59, 5]
+[80, 92]
+
+
+Matrix N_2X2: 
+
+
+[82, 0]
+[50, 50]
+
+
+Matrix Sum of M_2X2 and N_2X2: 
+
+
+141	5	
+130	142	
+
+
+Matrix Product of M_2X2 and N_2X2: 
+
+
+5088	250	
+11160	4600	
+
+
+Matrix M1_3X5: 
+
+
+[5, 77, 87, 66, 65]
+[10, 73, 33, 90, 82]
+[1, 96, 69, 85, 80]
+
+
+Matrix M2_3X5: 
+
+
+[75, 53, 45, 17, 19]
+[77, 8, 28, 60, 94]
+[33, 78, 70, 23, 45]
+
+
+Matrix Sum of M1_3X5 and M2_3X5: 
+
+
+80	130	132	83	84	
+87	81	61	150	176	
+34	174	139	108	125	
+
+
+Matrix N1_3X5: 
+
+
+[11, 31, 41, 29, 19]
+[98, 9, 55, 84, 32]
+[50, 21, 59, 91, 63]
+
+
+Matrix N2_5X3: 
+
+
+[77, 85, 2]
+[11, 12, 69]
+[31, 9, 47]
+[18, 50, 97]
+[41, 37, 91]
+
+
+Matrix Product of N1_3X5 and N2_5X3: 
+
+
+3760	3829	8630	
+12174	14317	14462	
+10131	11914	18882	
+
+
+Would you like to play again (Y/N)? n
+
+I hope you enjoyed the COOL MATHEMATICS! Goodbye!
